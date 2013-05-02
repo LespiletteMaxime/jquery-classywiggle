@@ -1,0 +1,27 @@
+{
+	"name": "classywiggle",
+	"title": "jQuery ClassyWiggle",
+	"description": "This jQuery plugin allows you to emulate the wiggle effect icons on an iPhone have when you press and hold down on them.",
+	"keywords": [
+		"wiggle",
+		"effects"
+	],
+	"version": "1.1.0",
+	"author": {
+		"name": "Marius Stanciu - Sergiu",
+		"url": "http://www.class.pm"
+	},
+	"licenses": [
+		{
+			"type": "GPLv3",
+			"url": "http://www.gnu.org/licenses/gpl-3.0.txt"
+		}
+	],
+	"bugs": "https://github.com/classpm/jquery-classywiggle/issues",
+	"homepage": "http://www.class.pm/projects/jquery/classywiggle/",
+	"docs": "http://www.class.pm/projects/jquery/classywiggle/",
+	"download": "https://github.com/classpm/jquery-classywiggle/archive/master.zip",
+	"dependencies": {
+		"jquery": ">=1.6"
+	}
+}
