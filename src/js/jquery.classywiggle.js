@@ -2,8 +2,7 @@
  * jQuery ClassyWiggle
  * http://www.class.pm/projects/jquery/classywiggle
  *
- * Copyright 2011 - 2013, Class.PM www.class.pm
- * Written by Marius Stanciu - Sergiu <marius@picozu.net>
+ * Written by Marius Stanciu - Sergiu <marius@picozu.com>
  * Licensed under the GPL Version 3 license.
  * Version 1.1.0
  *

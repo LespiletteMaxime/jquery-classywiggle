@@ -1,7 +1,7 @@
-This plugin allows you to emulate the wiggle effect icons on an iPhone have when you press and hold down on them.
+This jQuery plugin allows you to emulate the wiggle effect icons on an iPhone have when you press and hold down on them.
 
 @name ClassyWiggle
 @package jQuery plugin
-@author Marius Stanciu - Sergiu <marius@picozu.net>
+@author Marius Stanciu - Sergiu <marius@picozu.com>
 @website http://www.class.pm/projects/jquery/classywiggle
 @version 1.1.0
